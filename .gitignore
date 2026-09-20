@@ -1,0 +1,6 @@
+﻿__profile*/
+__pf*/
+*.png
+node_modules/
+.DS_Store
+
